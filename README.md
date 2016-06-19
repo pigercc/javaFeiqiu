@@ -1,2 +1,2 @@
 # javaFeiqiu
-receive and listen feiqiu group messages
+send and listen feiqiu group msg
